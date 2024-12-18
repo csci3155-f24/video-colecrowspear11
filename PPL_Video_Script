@@ -1,0 +1,35 @@
+# Cole Wayne
+
+## Script Outline
+
+### Introduction
+- Introduce yourself and the project.
+- Say what I am doing "Today, I’m going to walk you through a simple Python program that uses recursion to compute the Fibonacci sequence."
+- Talk about the Fibonacci sequence and how recursion are fundamental concepts in programming languages.
+
+### What is Recursion?
+- Define recursion and say what it is
+- Give a simple example
+
+### The Fibonacci Sequence
+- Define the Fibonacci sequence and say what it is
+- Explain why Fibonacci is a common example for recursion
+
+### Recursion vs. Iteration
+- Explain the differences between iteration and recursion and mention that while recursion can make code more elegant and easier to reason about in some cases, it can be less efficient or less intuitive than iterative solutions.
+
+### Walking Through the Code
+- Show my short code snippet and explain how it works and how it uses recursion.
+
+### Running the Code
+- Show how to run the code from the terminal: python3 fibonacci.py.
+- Show the output, and prove it.
+
+### Connection to Scala and Static Type Checking
+- Mention that in the course, you’ve been writing code in Scala, a statically typed language.
+- Contrast this with Python’s dynamic typing
+- Highlight that the recursive logic is the same conceptually in both languages, but the typing systems differ.
+
+### Wrap-Up
+- Summarize what you covered: recursion, Fibonacci sequence, the Python code example, and the connection to Scala.
+- End with a final note on the importance of understanding recursion as a fundamental concept in many programming languages.
